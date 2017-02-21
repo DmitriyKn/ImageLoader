@@ -1,0 +1,110 @@
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\WebUI.dll.config
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\WebUI.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\WebUI.pdb
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Domain.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\EntityFramework.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\EntityFramework.SqlServer.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Newtonsoft.Json.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Net.Http.Formatting.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Helpers.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Http.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Http.WebHost.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Mvc.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Razor.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.WebPages.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Domain.pdb
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\EntityFramework.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\EntityFramework.SqlServer.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Newtonsoft.Json.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Net.Http.Formatting.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Helpers.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Http.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Http.WebHost.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Mvc.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.Razor.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.WebPages.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\projects 2017\ItrexTask\WebUI\obj\Debug\WebUI.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\obj\Debug\WebUI.pdb
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\ICSharpCode.SharpZipLib.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\MetadataExtractor.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\XmpCore.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\MetadataExtractor.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\XmpCore.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\GoogleMapsApi.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\GoogleMapsAPI.NET.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\GoogleMapsGeocoding.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\GoogleMapsApi.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\GoogleMapsAPI.NET.pdb
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\GoogleMapsAPI.NET.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Castle.Core.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Moq.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Ninject.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Ninject.Web.Common.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Ninject.Web.Mvc.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\WebActivatorEx.dll
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Castle.Core.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Moq.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Ninject.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Ninject.Web.Common.xml
+D:\Programming\projects 2017\ItrexTask\WebUI\bin\Ninject.Web.Mvc.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\WebUI.dll.config
+D:\Programming\projects2017\ItrexTask\WebUI\bin\WebUI.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\WebUI.pdb
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Castle.Core.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Domain.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\EntityFramework.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\EntityFramework.SqlServer.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\GoogleMapsApi.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\GoogleMapsAPI.NET.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\GoogleMapsGeocoding.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\ICSharpCode.SharpZipLib.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\MetadataExtractor.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Moq.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Newtonsoft.Json.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Ninject.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Ninject.Web.Common.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Ninject.Web.Mvc.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Net.Http.Formatting.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Helpers.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Http.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Http.WebHost.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Mvc.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Razor.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.WebPages.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\WebActivatorEx.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\XmpCore.dll
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Domain.pdb
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Castle.Core.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\EntityFramework.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\EntityFramework.SqlServer.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\GoogleMapsApi.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\GoogleMapsAPI.NET.pdb
+D:\Programming\projects2017\ItrexTask\WebUI\bin\GoogleMapsAPI.NET.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\MetadataExtractor.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Moq.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Newtonsoft.Json.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Ninject.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Ninject.Web.Common.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\Ninject.Web.Mvc.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Net.Http.Formatting.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Helpers.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Http.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Http.WebHost.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Mvc.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.Razor.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.WebPages.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Programming\projects2017\ItrexTask\WebUI\bin\XmpCore.xml
+D:\Programming\projects2017\ItrexTask\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\projects2017\ItrexTask\WebUI\obj\Debug\WebUI.dll
+D:\Programming\projects2017\ItrexTask\WebUI\obj\Debug\WebUI.pdb

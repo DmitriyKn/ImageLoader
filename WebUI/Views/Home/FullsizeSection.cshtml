@@ -1,0 +1,38 @@
+﻿@model WebUI.Models.FullsizeSectionViewModel
+@using System.Collections;
+
+
+<div id="fullsizeImage">
+    @Html.Raw("<img name='"+Model.Image.ImageId+"' id='fImg' src=\"data:image/jpeg;base64,"
+                                + Convert.ToBase64String(Model.Image.ImageData) + "\" />");
+</div>
+
+
+<div id="exifData">
+    <table>
+        <tr>
+            <th>Exif tag name:</th>
+            <th>Exif tag descriotion:</th>
+        </tr>
+
+        @foreach (var key in Model.Exif.Keys)
+        {
+
+            @Html.Raw("<tr><td>" + key + "</td><td>" + Model.Exif[key] + "</td></tr>");
+        }
+    </table>
+
+
+    <script>
+        $(document).ready(function () {
+            if ('@Model.GpsLong' != '' && '@Model.GpsLat' != '') {
+                getMap('@Model.GpsLong', '@Model.GpsLat');
+            } else {
+                deleteMap();
+            }
+            commentShow();
+            insertComment();
+        });
+    </script>
+
+</div>

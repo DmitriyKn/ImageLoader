@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Domain.Entities.Image>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/MyScripts.js"></script>
+    <script src="http://maps.google.com/maps/api/js?key=AIzaSyCpOudUMI6edAxAb822Ia7vUMLh7xVzSfw" type="text/javascript"></script>
+    <link href="~/Content/myCSS.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+
+    <div id="previewSection"><div id="preview"><div class="wrap"><ul></ul></div></div></div>
+        <div id="fullsizeSection"></div>
+        <div id="gmapsSection"></div>
+
+        <div id="commentSection">
+            <div id="btnAndTitle">
+                <button id="commentEdit" onclick="editComment()">Edit</button>
+                <button id="commentSave" onclick="saveComment()" class="hidden">Save</button>
+                <div id='commentTitle'>User Image Descriotion:</div>
+            </div>
+            <div id="comment"></div>
+            <input id='commentTextBox' class="hidden" type="text" />
+        </div>
+
+        <div id="uploadSection">
+            <input type="file" name="upload" id="uploadFile" /><br />
+            <button id="submit" onclick="uploadImage()">Upload</button>
+            <button id="deleteAll" onclick="deleteImages()">DeleteAll</button>
+        </div>
+
+
+        <script>
+            $(document).ready(function () {
+                loadPreviewImages();
+                validateInputFile();
+            })
+        </script>
+
+
+
+
+</body>
+</html>

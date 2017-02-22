@@ -21,3 +21,28 @@ D:\Programming\projects 2017\ItrexTask\Domain\bin\Debug\System.Web.WebPages.Razo
 D:\Programming\projects 2017\ItrexTask\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 D:\Programming\projects 2017\ItrexTask\Domain\obj\Debug\Domain.dll
 D:\Programming\projects 2017\ItrexTask\Domain\obj\Debug\Domain.pdb
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\Domain.dll.config
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\Domain.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\Domain.pdb
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\EntityFramework.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\EntityFramework.SqlServer.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.Helpers.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.Mvc.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.Razor.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.WebPages.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\EntityFramework.xml
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\EntityFramework.SqlServer.xml
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.Helpers.xml
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.Mvc.xml
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.Razor.xml
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.WebPages.xml
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+d:\Programming\GitHub\ImageLoader\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+d:\Programming\GitHub\ImageLoader\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+d:\Programming\GitHub\ImageLoader\Domain\obj\Debug\Domain.dll
+d:\Programming\GitHub\ImageLoader\Domain\obj\Debug\Domain.pdb
+d:\Programming\GitHub\ImageLoader\Domain\obj\Debug\Domain.Migrations.addImageTable.resources
+d:\Programming\GitHub\ImageLoader\Domain\obj\Debug\Domain.csproj.GenerateResource.Cache

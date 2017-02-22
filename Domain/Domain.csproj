@@ -80,11 +80,21 @@
     <Compile Include="Concrete\EFDbContext.cs" />
     <Compile Include="Concrete\EFImageRepository.cs" />
     <Compile Include="Entities\Image.cs" />
+    <Compile Include="Migrations\201702222058264_addImageTable.cs" />
+    <Compile Include="Migrations\201702222058264_addImageTable.Designer.cs">
+      <DependentUpon>201702222058264_addImageTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201702222058264_addImageTable.resx">
+      <DependentUpon>201702222058264_addImageTable.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

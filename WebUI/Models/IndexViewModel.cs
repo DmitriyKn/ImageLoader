@@ -7,6 +7,9 @@ namespace WebUI.Models
 {
     public class IndexViewModel
     {
-        public IEnumerable<Domain.Entities.Image> Images { get; set; }
+        public int ImageId { get; set; }
+        public string Name { get; set; }
+        public string Comment { get; set; }
+        public byte[] ImageData { get; set; }
     }
 }

@@ -1,7 +1,7 @@
-﻿@model WebUI.Models.PreviewSectionViewModel
+﻿@model IEnumerable<WebUI.Models.PreviewSectionViewModel>
 
 
-@foreach (var item in Model.Images.Reverse())
+@foreach (var item in Model.Reverse())
 {
     <li>
         @Html.Raw("<img class='previewImg' id='" + item.ImageId.ToString() + "' style='width:180px; height:150px;' src=\"data:image/jpeg;base64," + Convert.ToBase64String(item.ImageData) + "\" />")

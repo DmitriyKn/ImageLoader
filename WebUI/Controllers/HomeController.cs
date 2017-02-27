@@ -13,6 +13,7 @@ using MetadataExtractor;
 using WebUI.Models;
 using System.Collections;
 using System.Text.RegularExpressions;
+using AutoMapper;
 
 namespace WebUI.Controllers
 {
@@ -28,9 +29,7 @@ namespace WebUI.Controllers
         [HttpGet]
         public ActionResult Index()
         {
-            IndexViewModel model = new IndexViewModel();
-            model.Images = repository.Images;
-            return View(model);
+            return View();
         }
 
         [HttpPost]
@@ -46,10 +45,11 @@ namespace WebUI.Controllers
                 return HttpNotFound();
             }
 
-            PreviewSectionViewModel model = new PreviewSectionViewModel();
-            model.Images = repository.Images;
+            Mapper.Initialize(a => a.CreateMap<Domain.Entities.Image, WebUI.Models.PreviewSectionViewModel>());
+            var allImages =
+                Mapper.Map<IEnumerable<Image>, IEnumerable<PreviewSectionViewModel>>(repository.Images);
 
-            return PartialView(model);
+            return PartialView(allImages);
         }
 
         public ActionResult GmapsSection()
@@ -72,7 +72,9 @@ namespace WebUI.Controllers
         public ActionResult FullsizeSection(int? id)
         {
 
-            FullsizeSectionViewModel model = new FullsizeSectionViewModel();
+            Mapper.Initialize(a => a.CreateMap<Domain.Entities.Image, WebUI.Models.FullsizeSectionViewModel>());
+            var model =
+                Mapper.Map<Image, FullsizeSectionViewModel>(repository.Images.Where(a => a.ImageId == id).First());
 
             if (id != null && repository.Images.Count() != 0)
             {
@@ -123,7 +125,6 @@ namespace WebUI.Controllers
                             }
                         }
                     }
-                    model.Image = repository.Images.Where(a => a.ImageId == id).First();
                     model.Exif = exif;
                 }
                 catch (Exception e)

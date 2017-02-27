@@ -28,7 +28,9 @@ namespace WebUI.Controllers
         [HttpGet]
         public ActionResult Index()
         {
-            return View(repository.Images);
+            IndexViewModel model = new IndexViewModel();
+            model.Images = repository.Images;
+            return View(model);
         }
 
         [HttpPost]
@@ -43,7 +45,11 @@ namespace WebUI.Controllers
             {
                 return HttpNotFound();
             }
-            return PartialView(repository.Images);
+
+            PreviewSectionViewModel model = new PreviewSectionViewModel();
+            model.Images = repository.Images;
+
+            return PartialView(model);
         }
 
         public ActionResult GmapsSection()
